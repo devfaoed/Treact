@@ -1,0 +1,49 @@
+h2{
+   text-align: left;
+   padding: 0 0 0 50px;
+   cursor: pointer;
+   font-size: 2rem;
+}
+ul{
+    text-align: right;
+    margin: -50px 90px 0 0px;
+    list-style-type: none;
+    overflow: hidden;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+li{
+    display: inline-block;
+    padding: 0 30px;
+  
+}
+.one{
+    border-bottom: 2px solid #aaa;
+    margin: 0 0 0 30px;
+    padding: 10px;
+}
+.two{
+    border-bottom: 2px solid #aaa;
+    margin: 0 0 0 30px;
+    padding: 10px;
+}
+.three{
+    border-bottom: 2px solid #aaa;
+    margin: 0 0 0 30px;
+    padding: 10px;
+}
+.four{
+    border-bottom: 2px solid #aaa;
+    margin: 0 0 0 30px;
+    padding: 10px;
+}
+.active{
+   color: #fff;
+   background-color: blueviolet;
+   height: 30px;
+   padding: 10px 15px;
+   border-radius: 8px;
+   margin: 0 0 0 30px;
+}

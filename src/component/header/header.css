@@ -1,0 +1,55 @@
+.header{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.headerImg{
+    margin: 200px 0 0 100px;
+    width: 80%;
+}
+.headerDesc{
+    width: 700px;
+    font-size: 20px;
+    text-align: left;
+}
+.headerHead{
+    font-size: 3rem;
+    cursor: default;
+    color: blueviolet;
+}
+.headerPara{
+   padding: 0 0 0 50px;
+   width: 500px;
+}
+.headerOther{
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+.headerPro{
+    padding: 10px 20px;   
+    margin: 0 0 0 50px;
+}
+
+.headerButton{
+   margin: 20px 0 0 50px;
+}
+.primary{
+    background-color: blueviolet;
+    color: #fff;
+    padding: 20px 20px;
+    cursor: pointer;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.default{
+    background-color: #aaa;
+    color: #fff;
+    padding: 20px 20px;
+    cursor: pointer;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 0 0 0 20px;
+}
